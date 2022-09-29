@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/New-High-Life-Project/static/css/main.e6c13ad2.css",
+    "main.js": "/New-High-Life-Project/static/js/main.f53427d6.js",
+    "static/js/787.4ba58919.chunk.js": "/New-High-Life-Project/static/js/787.4ba58919.chunk.js",
+    "index.html": "/New-High-Life-Project/index.html",
+    "main.e6c13ad2.css.map": "/New-High-Life-Project/static/css/main.e6c13ad2.css.map",
+    "main.f53427d6.js.map": "/New-High-Life-Project/static/js/main.f53427d6.js.map",
+    "787.4ba58919.chunk.js.map": "/New-High-Life-Project/static/js/787.4ba58919.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f53427d6.js"
+  ]
+}
